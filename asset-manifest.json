@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jayprakash55.github.io/csb-t56sds/static/css/main.be3e2383.chunk.css",
+    "main.js": "https://jayprakash55.github.io/csb-t56sds/static/js/main.5de64db3.chunk.js",
+    "main.js.map": "https://jayprakash55.github.io/csb-t56sds/static/js/main.5de64db3.chunk.js.map",
+    "runtime-main.js": "https://jayprakash55.github.io/csb-t56sds/static/js/runtime-main.d1c9bc56.js",
+    "runtime-main.js.map": "https://jayprakash55.github.io/csb-t56sds/static/js/runtime-main.d1c9bc56.js.map",
+    "static/js/2.76178cdc.chunk.js": "https://jayprakash55.github.io/csb-t56sds/static/js/2.76178cdc.chunk.js",
+    "static/js/2.76178cdc.chunk.js.map": "https://jayprakash55.github.io/csb-t56sds/static/js/2.76178cdc.chunk.js.map",
+    "index.html": "https://jayprakash55.github.io/csb-t56sds/index.html",
+    "static/css/main.be3e2383.chunk.css.map": "https://jayprakash55.github.io/csb-t56sds/static/css/main.be3e2383.chunk.css.map",
+    "static/js/2.76178cdc.chunk.js.LICENSE.txt": "https://jayprakash55.github.io/csb-t56sds/static/js/2.76178cdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c9bc56.js",
+    "static/js/2.76178cdc.chunk.js",
+    "static/css/main.be3e2383.chunk.css",
+    "static/js/main.5de64db3.chunk.js"
+  ]
+}
